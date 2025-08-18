@@ -199,8 +199,8 @@ Se você usar este trabalho em sua pesquisa, por favor cite:
 
 ## 👥 Autores
 
-- **Caio Pacheco Andrade** - *Pesquisador Principal* - [GitHub](https://github.com/[caio-usuario])
-- **Kayky Crespo Santos** - *Pesquisador Principal* - [GitHub](https://github.com/[kayky-usuario])
+- **Caio Pacheco Andrade** - *Pesquisador Principal* - [GitHub](https://github.com/caiopa22)
+- **Kayky Crespo Santos** - *Pesquisador Principal* - [GitHub](https://github.com/KaykyCrespo)
 
 ## 🎓 Instituição
 
@@ -211,7 +211,7 @@ Programa de Iniciação Científica e Desenvolvimento Tecnológico e Inovação
 ## 📞 Contato
 
 - 📧 Email: [caio.email@unip.br](mailto:caio.email@unip.br)
-- 📧 Email: [kayky.email@unip.br](mailto:kayky.email@unip.br)
+- 📧 Email: [kaykycrespo9@gmail.com](mailto:kaykycrespo9@gmail.com)
 - 🌐 Site: [https://unip.br](https://unip.br)
 
 ## 🔗 Links Relacionados
